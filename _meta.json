@@ -1,0 +1,19 @@
+{
+  "name": "material-ui",
+  "version": "2.0.0",
+  "description": "Build React UIs with Material UI (MUI v9) — source-derived skill with exact Props APIs, default values, CSS class keys, theme configuration, and MUI X advanced components.",
+  "author": "Qingyan Agent",
+  "source": "https://github.com/mui/material-ui",
+  "sourceVersion": "v9.x (master)",
+  "tags": ["react", "material-ui", "mui", "material-design", "components", "theming", "data-grid", "charts", "sx-prop", "styled-api", "pigment-css", "css-layers"],
+  "references": [
+    "references/components.md",
+    "references/theming.md",
+    "references/styling.md",
+    "references/mui-x.md",
+    "references/css-classes.md"
+  ],
+  "scripts": [
+    "scripts/scaffold.sh"
+  ]
+}
